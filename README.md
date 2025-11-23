@@ -1,2 +1,2 @@
 # problem-statement
-AICTE and ugc
+AICTE 
